@@ -1,10 +1,125 @@
 {
     "description": "アドレスだよ",
-    "list": [
+    "Mainnet": [
         {
             "name": "Bitcoin",
             "code": "BTC",
-            "address": ""
+            "address": "14aEPbnifyzFUereXtjcPmfHCm3axtV5AK"
+        },
+        {
+            "name": "BitZeny",
+            "code": "ZNY",
+            "address": "ZsJfwQg6YdmtptRbXftBccKTAW7TTk7rjG"
+        },
+        {
+            "name": "MonaCoin",
+            "code": "MONA",
+            "address": "MTYq5baob6CNQQ78UtGSUSAsgxu5HSWzdm"
+        },
+        {
+            "name": "YAJUCOIN",
+            "code": "YAJU",
+            "address": "Yd6QzdykJgYM6h4tajwbvdL1KX889xF43G"
+        },
+        {
+            "name": "XP",
+            "code": "XP",
+            "address": "XGZjewkqwmCiUeojiZb1McVtHRaFT69rB9"
+        },
+        {
+            "name": "Yenten",
+            "code": "YTN",
+            "address": "YXc7pd1kjhRsrQTWWTTGZXFA5RiXAUh9jc"
+        },
+        {
+            "name": "808",
+            "code": "808",
+            "address": "8HAcqiWfQ1DzR21M17p4SVnieFZbtn3eBh"
+        },
+        {
+            "name": "Sprouts",
+            "code": "SPRTS",
+            "address": "Sf8h5QHwfa2YoXkLKLPB3hn3ZqhmZsiD6c"
+        },
+        {
+            "name": "Condensation",
+            "code": "RAIN",
+            "address": "RJDMxubFnabTUoVhKKceTpmfAwvnrbwJaU"
+        },
+        {
+            "name": "NEETCOIN",
+            "code": "NEET",
+            "address": "NVtTF5fXkFhaKHBJS6zY8N8Y9ufSJJ9JSQ"
+        },
+        {
+            "name": "Grim",
+            "code": "GRIM",
+            "address": "GVgMV9ZsxUSoEoGAfYNnjZt96437AekxLx"
+        },
+        {
+            "name": "Sakuracoin",
+            "code": "SKR",
+            "address": "MWJdRQcDQZPNgfuPciBn5tY8BiB1c6R8Et"
+        },
+        {
+            "name": "DIVERS",
+            "code": "DVRS",
+            "address": "FcdGGPLEQ1gV351dHN8EvtsKvZyM3SUEWt"
+        },
+        {
+            "name": "StrongHands",
+            "code": "SHND",
+            "address": "SX57U9MQzrPQTyL7xKHj18dYyH5cwS4Ucg"
+        },
+        {
+            "name": "Sha1coin",
+            "code": "SHA",
+            "address": "Sd5obX8cP1UMhKRaAk66NoTUad8jzFuMHQ"
+        },
+        {
+            "name": "DigiByte",
+            "code": "DGB",
+            "address": "DSyKXuRvRRgSznQz9uRduq1vJQg1FHTWPX"
+        },
+        {
+            "name": "Fujicoin",
+            "code": "FJC",
+            "address": "Ff5jbyfqxguPXToL1DCFD413dWfcrUdNxU"
+        },
+        {
+            "name": "Paccoin",
+            "code": "$PAC",
+            "address": "PRcMW78MNkzs7XXDJbyrgHBoVrRH1GDm3H"
+        },
+        {
+            "name": "RingoCoin",
+            "code": "RIN",
+            "address": "RQcEsQuscLY6vaxPbS6JV8MXYo5BpVi7iw"
+        },
+        {
+            "name": "DSTRA",
+            "code": "DST",
+            "address": "F8wpXkqhg4T4tCq8dRG6kDccQyc866vhjL"
+        },
+        {
+            "name": "WOMENCOIN",
+            "code": "WOMEN",
+            "address": "WYxVBW58parrNK9C3uFEbxHv795YzX4uAC"
+        },
+        {
+            "name": "Curium",
+            "code": "CRU",
+            "address": "RPiGRyB2AEDuG3h7GNq69Gk7WyPJ5Yi7v5"
+        },
+        {
+            "name": "SanDeGo",
+            "code": "SDGo",
+            "address": "SjKgWpBt1uLnWCbxYh5gR9Ve7FrupMWxm7"
+        },
+        {
+            "name": "VIPSTARCOIN",
+            "code": "VIPS",
+            "address": "VS6JxDC3Zejiu6P8PgN6g6CjpAAt38SGj2"
         }
     ]
 }
