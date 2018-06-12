@@ -12,9 +12,19 @@
             "address": "ZsJfwQg6YdmtptRbXftBccKTAW7TTk7rjG"
         },
         {
+            "name": "BitZeny(Segwit)",
+            "code": "ZNY",
+            "address": "3AUiMgQndCuDXnbZfKJYDDh6zjJ6zUMJKZ"
+        },
+        {
             "name": "MonaCoin",
             "code": "MONA",
             "address": "MTYq5baob6CNQQ78UtGSUSAsgxu5HSWzdm"
+        },
+        {
+            "name": "MonaCoin(Segwit)",
+            "code": "MONA",
+            "address": "PFUofGL4omD5K2aVvLNQVQMyoQkWkYga89"
         },
         {
             "name": "YAJUCOIN",
@@ -145,6 +155,38 @@
             "name": "nekonium",
             "code": "NUKO",
             "address": "0xeD8E591F606312575b9A5ceB8ed1A65502e984fE"
+        }
+    ],
+    "Testnet": [
+        {
+            "name": "BitCoin Testnet",
+            "code": "BTC",
+            "address": "mkMRqni6itzHfAj1tFt6MUTm3UW4zUt1qk"
+        },
+        {
+            "name": "LiteCoin Testnet",
+            "code": "LTC",
+            "address": "mu7KB2R2oBNTW8EZnLMHuqAYKGss88i8mZ"
+        },
+        {
+            "name": "BitZeny",
+            "code": "ZNY",
+            "address": "n3ypyBK1sHFTa4XVwe6bHCu5sSkvzxHsfW"
+        },
+        {
+            "name": "BitZeny (Segwit)",
+            "code": "ZNY",
+            "address": "2NFGm2UbhPfuLPkLFQ8ZAppTiRZaB91dU4p"
+        },
+        {
+            "name": "Monacoin",
+            "code": "MONA",
+            "address": "mwe47KrUtfdHcGDKHCYDBL4BJYS661fgVP"
+        },
+        {
+            "name": "Monacoin (Segwit)",
+            "code": "MONA",
+            "address": "pSHmjTHgtUUB4b6zdm1EzRNs2NGyRvTbcF"
         }
     ]
 }
