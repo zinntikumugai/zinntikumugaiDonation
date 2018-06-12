@@ -125,6 +125,26 @@
             "name": "KumaCoin",
             "code": "KUMA",
             "address": "KNLSkyBEoHxJxEhigfD3NPJ1ZDwpPt3k7v"
+        },
+        {
+            "name": "Wavese",
+            "code": "WAVES",
+            "address": "3PJaA35fSH73m34yhV9sXEN2WpzD6QPe8mj"
+        },
+        {
+            "name": "LiteCoin",
+            "code": "LTC",
+            "address": "Lcq5t7aNggyC83CxTax8VdwkqA6cVpwEb7"
+        },
+        {
+            "name": "Ethereum",
+            "code": "ETH",
+            "address": "0xeD8E591F606312575b9A5ceB8ed1A65502e984fE"
+        },
+        {
+            "name": "nekonium",
+            "code": "NUKO",
+            "address": "0xeD8E591F606312575b9A5ceB8ed1A65502e984fE"
         }
     ]
 }
