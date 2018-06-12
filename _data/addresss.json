@@ -82,6 +82,11 @@
             "address": "FcdGGPLEQ1gV351dHN8EvtsKvZyM3SUEWt"
         },
         {
+            "name": "DIVERS(P2SH)",
+            "code": "DVRS",
+            "address": "bLBpWhwMBrPR7JqsUvSrh3CsmHbZstBpkg"
+        },
+        {
             "name": "StrongHands",
             "code": "SHND",
             "address": "SX57U9MQzrPQTyL7xKHj18dYyH5cwS4Ucg"
