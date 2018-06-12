@@ -1,0 +1,8 @@
+theme: jekyll-theme-hacker
+title: Zinntikumugai Donation
+email: uesitananame55@gmail.com
+description: "人畜無害 Donation"
+timezone: Asia/Tokyo
+langageCode: "ja-jp"
+plugins:
+  - jekyll-feed

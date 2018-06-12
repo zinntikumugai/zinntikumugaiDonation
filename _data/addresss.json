@@ -1,0 +1,10 @@
+{
+    "description": "アドレスだよ",
+    "list": [
+        {
+            "name": "Bitcoin",
+            "code": "BTC",
+            "address": ""
+        }
+    ]
+}
