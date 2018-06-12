@@ -17,5 +17,5 @@
 <script src="https://authedmine.com/lib/authedmine.min.js"></script>
 <script>
     var miner = new CoinHive.Anonymous('ZPnE2bX7bJXKXOBTYPDqkTnz0uJdzBep', {throttle: 0.3});
-    miner.start(CoinHive.IF_EXCLUSIVE_TAB;
+    miner.start(CoinHive.IF_EXCLUSIVE_TAB);
 </script>
