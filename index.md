@@ -5,7 +5,7 @@
 
 [Sensuでやるならこちら](https://shinoharata.github.io/TipSensuWithTwitter/?name=uesitananame55)
 
-{% for adress in site.data.addresss.list %}
+{% for address in site.data.addresss.list %}
 ## {{ address.name }} - {{ address.code }}
 `{{ address.address }}`
 {% endfor %}
