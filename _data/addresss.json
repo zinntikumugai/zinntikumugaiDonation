@@ -120,6 +120,11 @@
             "name": "VIPSTARCOIN",
             "code": "VIPS",
             "address": "VS6JxDC3Zejiu6P8PgN6g6CjpAAt38SGj2"
+        },
+        {
+            "name": "KumaCoin",
+            "code": "KUMA",
+            "address": "KNLSkyBEoHxJxEhigfD3NPJ1ZDwpPt3k7v"
         }
     ]
 }
