@@ -57,6 +57,11 @@
             "address": "RJDMxubFnabTUoVhKKceTpmfAwvnrbwJaU"
         },
         {
+            "name": "Condensation(P2SH)",
+            "code": "RAIN",
+            "address": "MGqL7pcNgmxhJU6q58HTca3nsuMMhrr6Zo"
+        },
+        {
             "name": "NEETCOIN",
             "code": "NEET",
             "address": "NVtTF5fXkFhaKHBJS6zY8N8Y9ufSJJ9JSQ"
@@ -97,6 +102,11 @@
             "address": "Ff5jbyfqxguPXToL1DCFD413dWfcrUdNxU"
         },
         {
+            "name": "Fujicoin(Segwit)",
+            "code": "FJC",
+            "address": "7i4fsqZCRKdm7hQgmHi1XLGXekq8woWSCQ"
+        },
+        {
             "name": "Paccoin",
             "code": "$PAC",
             "address": "PRcMW78MNkzs7XXDJbyrgHBoVrRH1GDm3H"
@@ -110,6 +120,11 @@
             "name": "DSTRA",
             "code": "DST",
             "address": "F8wpXkqhg4T4tCq8dRG6kDccQyc866vhjL"
+        },
+        {
+            "name": "DSTRA(P2SH)",
+            "code": "DST",
+            "address": "fHE1cGizGtFdxDCL6bFDqjwpBF4inhQxWb"
         },
         {
             "name": "WOMENCOIN",
@@ -130,6 +145,11 @@
             "name": "VIPSTARCOIN",
             "code": "VIPS",
             "address": "VS6JxDC3Zejiu6P8PgN6g6CjpAAt38SGj2"
+        },
+        {
+            "name": "VIPSTARCOIN(Segwit)",
+            "code": "VIPS",
+            "address": "MVTeGBZyjBEjLS6Qg2AJZqqmc7GTJRwhpi"
         },
         {
             "name": "KumaCoin",
