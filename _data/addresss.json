@@ -4,32 +4,38 @@
         {
             "name": "Bitcoin",
             "code": "BTC",
-            "address": "14aEPbnifyzFUereXtjcPmfHCm3axtV5AK"
+            "address": "14aEPbnifyzFUereXtjcPmfHCm3axtV5AK",
+            "insight": "https://insight.bitpay.com/api/addr/"
         },
         {
             "name": "BitZeny",
             "code": "ZNY",
-            "address": "ZsJfwQg6YdmtptRbXftBccKTAW7TTk7rjG"
+            "address": "ZsJfwQg6YdmtptRbXftBccKTAW7TTk7rjG",
+            "insight": "https://zenyinsight.tomotomo9696.xyz/api/addr/"
         },
         {
             "name": "BitZeny(Segwit)",
             "code": "ZNY",
-            "address": "3AUiMgQndCuDXnbZfKJYDDh6zjJ6zUMJKZ"
+            "address": "3AUiMgQndCuDXnbZfKJYDDh6zjJ6zUMJKZ",
+            "insight": "https://zenyinsight.tomotomo9696.xyz/api/addr/"
         },
         {
             "name": "MonaCoin",
             "code": "MONA",
-            "address": "MTYq5baob6CNQQ78UtGSUSAsgxu5HSWzdm"
+            "address": "MTYq5baob6CNQQ78UtGSUSAsgxu5HSWzdm",
+            "insight": "https://mona.insight.monaco-ex.org/api/addr/"
         },
         {
             "name": "MonaCoin(Segwit)",
             "code": "MONA",
-            "address": "PFUofGL4omD5K2aVvLNQVQMyoQkWkYga89"
+            "address": "PFUofGL4omD5K2aVvLNQVQMyoQkWkYga89",
+            "insight": "https://mona.insight.monaco-ex.org/api/addr/"
         },
         {
             "name": "YAJUCOIN",
             "code": "YAJU",
-            "address": "Yd6QzdykJgYM6h4tajwbvdL1KX889xF43G"
+            "address": "Yd6QzdykJgYM6h4tajwbvdL1KX889xF43G",
+            "insight": "http://yaju.insight.publicnodejp.cf/api/addr/"
         },
         {
             "name": "XP",
@@ -64,7 +70,8 @@
         {
             "name": "NEETCOIN",
             "code": "NEET",
-            "address": "NVtTF5fXkFhaKHBJS6zY8N8Y9ufSJJ9JSQ"
+            "address": "NVtTF5fXkFhaKHBJS6zY8N8Y9ufSJJ9JSQ",
+            "insight": "https://insight.neetcoin.jp/api/addr/"
         },
         {
             "name": "Grim",
