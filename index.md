@@ -10,5 +10,5 @@
 {% for address in site.data.addresss.Mainnet %}
 ### {{ address.name }} - {{ address.code }}
 {% capture img %}https://img.shields.io/badge/dynamic/json.svg?url={{ address.insight }}{{ address.addresss }}&label=tip&query=%24.balance&suffix=%20{{ address.code }}{% endcapture %}
-`{{ address.address }}` {% if address.insight != null %}![img]({{ img }}){% else %}BudgeNotSupport{% endif %}
+`{{ address.address }}` {% if address.insight != null %}![img]({{ img }}){% else %}[☆]{% endif %}
 {% endfor %}
