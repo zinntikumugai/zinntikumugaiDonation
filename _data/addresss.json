@@ -34,7 +34,8 @@
         {
             "name": "YAJUCOIN",
             "code": "YAJU",
-            "address": "Yd6QzdykJgYM6h4tajwbvdL1KX889xF43G"
+            "address": "Yd6QzdykJgYM6h4tajwbvdL1KX889xF43G",
+            "insight": "http://yaju.insight.publicnodejp.cf/api/addr/"
         },
         {
             "name": "XP",
@@ -69,7 +70,8 @@
         {
             "name": "NEETCOIN",
             "code": "NEET",
-            "address": "NVtTF5fXkFhaKHBJS6zY8N8Y9ufSJJ9JSQ"
+            "address": "NVtTF5fXkFhaKHBJS6zY8N8Y9ufSJJ9JSQ",
+            "insight": "https://insight.neetcoin.jp/api/addr/"
         },
         {
             "name": "Grim",
