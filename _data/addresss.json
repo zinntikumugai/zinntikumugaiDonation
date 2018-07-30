@@ -151,7 +151,8 @@
         {
             "name": "SanDeGo",
             "code": "SDGo",
-            "address": "SjKgWpBt1uLnWCbxYh5gR9Ve7FrupMWxm7"
+            "address": "SjKgWpBt1uLnWCbxYh5gR9Ve7FrupMWxm7",
+            "insight": "http://exp.sandego.net:3001/ext/getaddress/"
         },
         {
             "name": "VIPSTARCOIN",
