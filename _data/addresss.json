@@ -23,13 +23,13 @@
             "name": "MonaCoin",
             "code": "MONA",
             "address": "MTYq5baob6CNQQ78UtGSUSAsgxu5HSWzdm",
-            "insight": "https://mona.insight.monaco-ex.org/api/addr/"
+            "insight": "https://mona.chainsight.info/api/addr/"
         },
         {
             "name": "MonaCoin(Segwit)",
             "code": "MONA",
             "address": "PFUofGL4omD5K2aVvLNQVQMyoQkWkYga89",
-            "insight": "https://mona.insight.monaco-ex.org/api/addr/"
+            "insight": "https://mona.insight.monaco-ex.org/insight-api-monacoin/addr/"
         },
         {
             "name": "YAJUCOIN",
