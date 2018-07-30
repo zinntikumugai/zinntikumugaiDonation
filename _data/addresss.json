@@ -177,7 +177,8 @@
         {
             "name": "LiteCoin",
             "code": "LTC",
-            "address": "Lcq5t7aNggyC83CxTax8VdwkqA6cVpwEb7"
+            "address": "Lcq5t7aNggyC83CxTax8VdwkqA6cVpwEb7",
+            "insight": "https://api.blockcypher.com/v1/ltc/main/addrs/"
         },
         {
             "name": "Ethereum",
