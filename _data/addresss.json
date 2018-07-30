@@ -196,7 +196,8 @@
         {
             "name": "Koto",
             "code": "KOTO",
-            "address": "k1KwSbAr9rTG5tXh2Q4KehpHB8RueycAcFL"
+            "address": "k1KwSbAr9rTG5tXh2Q4KehpHB8RueycAcFL",
+            "insight": "https://insight.kotocoin.info/api/addr/"
         },
         {
             "name": "Koto(private)",
