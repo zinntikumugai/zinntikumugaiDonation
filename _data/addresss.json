@@ -185,6 +185,46 @@
             "name": "nekonium",
             "code": "NUKO",
             "address": "0xeD8E591F606312575b9A5ceB8ed1A65502e984fE"
+        },
+        {
+            "name": "nekonium",
+            "code": "NUKO",
+            "address": "0xeD8E591F606312575b9A5ceB8ed1A65502e984fE"
+        },
+        {
+            "name": "Koto",
+            "code": "KOTO",
+            "address": "k1KwSbAr9rTG5tXh2Q4KehpHB8RueycAcFL"
+        },
+        {
+            "name": "Koto(private)",
+            "code": "KOTO",
+            "address": "zkW1wQx6341L9RTWoQ18XdGZ9pkz41ZTDUmUpk2k9odtz5rwa7A8thFkBNvddfWikH6UxfqjCs6eziDYrpRkpHp7pJ5LSxU"
+        },
+        {
+            "name": "zChash",
+            "code": "ZEC",
+            "address": "t1eQ1QpAtTeZk2wSFqPLgDhLsvU6FJkj386"
+        },
+        {
+            "name": "zChash(private)",
+            "code": "ZEC",
+            "address": "zc9cTHweBM1hiFCFNJCCVYhyKRW5sQqXLwktqhzKtDcbVjmsR3N4tSMwMnUNrk2HbyiYgx5TnAyMscaWt7JpZ8JdKwkqGDy"
+        },
+        {
+            "name": "kagonmacoin",
+            "code": "JPKC",
+            "address": "KNjMQSMCxegAMvKz6jj5AgTB4QQr9o4KaQ"
+        },
+        {
+            "name": "Susucoin",
+            "code": "SUSU",
+            "address": "SebS5fWhnpf5HNXQXAWUibC7Eprzx3qAZB"
+        },
+        {
+            "name": "Mangacoin",
+            "code": "MANGA",
+            "address": "mQTYHzuHsjnhqfn5FGPgbir41mf3uwXFNB"
         }
     ],
     "Testnet": [
