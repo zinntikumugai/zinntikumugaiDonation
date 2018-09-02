@@ -230,6 +230,11 @@
             "name": "Mangacoin",
             "code": "MANGA",
             "address": "mQTYHzuHsjnhqfn5FGPgbir41mf3uwXFNB"
+        },
+        {
+            "name": "PosCoin",
+            "code": "POS",
+            "address": "PF7SGtxV3ApwaQHyR8c5B2jE9jivq3ZRRn"
         }
     ],
     "Testnet": [
