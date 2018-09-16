@@ -235,6 +235,11 @@
             "name": "PosCoin",
             "code": "POS",
             "address": "PF7SGtxV3ApwaQHyR8c5B2jE9jivq3ZRRn"
+        },
+        {
+            "name": "Blur",
+            "code": "BLUR",
+            "address": "bL4Nvo6s5SeAHs8RphFBxGVeWhm6xCCTbYsnHJmEK9GwDhtL5PkhB16UxiT8Yfh5HDfC2WZskJek9RE1jDnJiaVQ2HkjZ49a7"
         }
     ],
     "Testnet": [
