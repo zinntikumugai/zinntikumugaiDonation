@@ -240,6 +240,16 @@
             "name": "Blur",
             "code": "BLUR",
             "address": "bL4Nvo6s5SeAHs8RphFBxGVeWhm6xCCTbYsnHJmEK9GwDhtL5PkhB16UxiT8Yfh5HDfC2WZskJek9RE1jDnJiaVQ2HkjZ49a7"
+        },
+        {
+            "name": "BellCoin",
+            "code": "BELL",
+            "address": "bKYQs2fD6iVpfGGUUfTn4Vk8sNXr3hWRwu"
+        },
+        {
+            "name": "Bellcoin(Bech32)",
+            "code": "BELL",
+            "address": "bm1q3yum028cdl42ecqc46umeqz68zcrq23xv5ewjs"
         }
     ],
     "Testnet": [
