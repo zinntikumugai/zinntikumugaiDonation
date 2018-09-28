@@ -250,6 +250,11 @@
             "name": "Bellcoin(Bech32)",
             "code": "BELL",
             "address": "bm1q3yum028cdl42ecqc46umeqz68zcrq23xv5ewjs"
+        },
+        {
+            "name": "IDOLCOIN",
+            "code": "IDOL",
+            "address": "iNA1JLjHw1BHL8KaMv8iBuV1GNVpaqRg1J"
         }
     ],
     "Testnet": [
