@@ -252,9 +252,14 @@
             "address": "bm1q3yum028cdl42ecqc46umeqz68zcrq23xv5ewjs"
         },
         {
-            "name": "IDOLCOIN",
-            "code": "IDOL",
-            "address": "iNA1JLjHw1BHL8KaMv8iBuV1GNVpaqRg1J"
+            "name": "eXPerience Chain",
+            "code": "XPC
+            "address": "CSMYT5XEgQ9SgHoQr95kCFEcpbdyB7qC3Q"
+        },
+        {
+            "name": "eXPerience Chain(Segwit/Bech32)"
+            "code": "XPC
+            "address": "xpc1q3zj5qxnxemmaddvvltkjg4pul2u248yv3rfxlc"
         }
     ],
     "Testnet": [
