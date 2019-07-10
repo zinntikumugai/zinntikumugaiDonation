@@ -20,6 +20,12 @@
             "insight": "https://zenyinsight.tomotomo9696.xyz/api/addr/"
         },
         {
+            "name": "BitZeny(bech32)",
+            "code": "ZNY",
+            "address": "bz1qnd540e60f2hpz9wvyjx6lj879eww55w5ge6633",
+            "insight": "https://zny.blockbook.ovh/api/v2/address/"
+        },
+        {
             "name": "MonaCoin",
             "code": "MONA",
             "address": "MTYq5baob6CNQQ78UtGSUSAsgxu5HSWzdm",
