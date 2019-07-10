@@ -17,7 +17,7 @@
             "name": "BitZeny(Segwit)",
             "code": "ZNY",
             "address": "3AUiMgQndCuDXnbZfKJYDDh6zjJ6zUMJKZ",
-            "insight": "https://zenyinsight.tomotomo9696.xyz/api/addr/"
+            "insight": "https://zny.blockbook.ovh/api/v2/address/"
         },
         {
             "name": "BitZeny(bech32)",
@@ -29,7 +29,7 @@
             "name": "MonaCoin",
             "code": "MONA",
             "address": "MTYq5baob6CNQQ78UtGSUSAsgxu5HSWzdm",
-            "insight": "https://mona.chainsight.info/api/addr/"
+            "insight": "https://mona.insight.monaco-ex.org/insight-api-monacoin/addr/"
         },
         {
             "name": "MonaCoin(Segwit)",
