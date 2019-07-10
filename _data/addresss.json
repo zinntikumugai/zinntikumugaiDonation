@@ -250,12 +250,14 @@
         {
             "name": "BellCoin",
             "code": "BELL",
-            "address": "bKYQs2fD6iVpfGGUUfTn4Vk8sNXr3hWRwu"
+            "address": "bKYQs2fD6iVpfGGUUfTn4Vk8sNXr3hWRwu",
+            "insight": "https://bell.blockbook.ovh/api/v2/address/"
         },
         {
             "name": "Bellcoin(Bech32)",
             "code": "BELL",
-            "address": "bm1q3yum028cdl42ecqc46umeqz68zcrq23xv5ewjs"
+            "address": "bm1q3yum028cdl42ecqc46umeqz68zcrq23xv5ewjs",
+            "insight": "https://bell.blockbook.ovh/api/v2/address/"
         },
         {
             "name": "eXPerience Chain",
