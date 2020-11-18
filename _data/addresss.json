@@ -83,12 +83,14 @@
         {
             "name": "Condensation",
             "code": "RAIN",
-            "address": "RJDMxubFnabTUoVhKKceTpmfAwvnrbwJaU"
+            "address": "RJDMxubFnabTUoVhKKceTpmfAwvnrbwJaU",
+            "insight": "http://explorer.condensate.io/ext/getaddress/"
         },
         {
             "name": "Condensation(P2SH)",
             "code": "RAIN",
-            "address": "MGqL7pcNgmxhJU6q58HTca3nsuMMhrr6Zo"
+            "address": "MGqL7pcNgmxhJU6q58HTca3nsuMMhrr6Zo",
+            "insight": "http://explorer.condensate.io/ext/getaddress/"
         },
         {
             "name": "NEETCOIN",
@@ -134,12 +136,14 @@
         {
             "name": "Fujicoin",
             "code": "FJC",
-            "address": "Ff5jbyfqxguPXToL1DCFD413dWfcrUdNxU"
+            "address": "Ff5jbyfqxguPXToL1DCFD413dWfcrUdNxU",
+            "enable": 0
         },
         {
             "name": "Fujicoin(Segwit)",
             "code": "FJC",
-            "address": "7i4fsqZCRKdm7hQgmHi1XLGXekq8woWSCQ"
+            "address": "7i4fsqZCRKdm7hQgmHi1XLGXekq8woWSCQ",
+            "enable": 0
         },
         {
             "name": "Paccoin",
@@ -149,7 +153,8 @@
         {
             "name": "RingoCoin",
             "code": "RIN",
-            "address": "RQcEsQuscLY6vaxPbS6JV8MXYo5BpVi7iw"
+            "address": "RQcEsQuscLY6vaxPbS6JV8MXYo5BpVi7iw",
+            "insight": "http://ringo.l2loop.org//ext/getaddress/"
         },
         {
             "name": "DSTRA",
@@ -164,7 +169,8 @@
         {
             "name": "WOMENCOIN",
             "code": "WOMEN",
-            "address": "WYxVBW58parrNK9C3uFEbxHv795YzX4uAC"
+            "address": "WYxVBW58parrNK9C3uFEbxHv795YzX4uAC",
+            "enable": 0
         },
         {
             "name": "Curium",
@@ -191,11 +197,6 @@
             "name": "KumaCoin",
             "code": "KUMA",
             "address": "KNLSkyBEoHxJxEhigfD3NPJ1ZDwpPt3k7v"
-        },
-        {
-            "name": "nekonium",
-            "code": "NUKO",
-            "address": "0xeD8E591F606312575b9A5ceB8ed1A65502e984fE"
         },
         {
             "name": "nekonium",
@@ -231,7 +232,8 @@
         {
             "name": "Susucoin",
             "code": "SUSU",
-            "address": "SebS5fWhnpf5HNXQXAWUibC7Eprzx3qAZB"
+            "address": "SebS5fWhnpf5HNXQXAWUibC7Eprzx3qAZB",
+            "insight": "https://explore.susukino.com/ext/getaddress/"
         },
         {
             "name": "Mangacoin",
@@ -246,7 +248,8 @@
         {
             "name": "Blur",
             "code": "BLUR",
-            "address": "bL4Nvo6s5SeAHs8RphFBxGVeWhm6xCCTbYsnHJmEK9GwDhtL5PkhB16UxiT8Yfh5HDfC2WZskJek9RE1jDnJiaVQ2HkjZ49a7"
+            "address": "bL4Nvo6s5SeAHs8RphFBxGVeWhm6xCCTbYsnHJmEK9GwDhtL5PkhB16UxiT8Yfh5HDfC2WZskJek9RE1jDnJiaVQ2HkjZ49a7",
+            "enable":0
         },
         {
             "name": "BellCoin",
@@ -263,12 +266,14 @@
         {
             "name": "eXPerience Chain",
             "code": "XPC",
-            "address": "CSMYT5XEgQ9SgHoQr95kCFEcpbdyB7qC3Q"
+            "address": "CSMYT5XEgQ9SgHoQr95kCFEcpbdyB7qC3Q",
+            "insight": "https://insight.xpchain.io/api/addr/"
         },
         {
             "name": "eXPerience Chain(Segwit/Bech32)",
             "code": "XPC",
-            "address": "xpc1q3zj5qxnxemmaddvvltkjg4pul2u248yv3rfxlc"
+            "address": "xpc1q3zj5qxnxemmaddvvltkjg4pul2u248yv3rfxlc",
+            "insight": "https://insight.xpchain.io/api/addr/"
         }
     ],
     "Testnet": [
