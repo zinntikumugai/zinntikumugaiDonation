@@ -101,12 +101,14 @@
         {
             "name": "Grim",
             "code": "GRIM",
-            "address": "GVgMV9ZsxUSoEoGAfYNnjZt96437AekxLx"
+            "address": "GVgMV9ZsxUSoEoGAfYNnjZt96437AekxLx",
+            "enable": 0
         },
         {
             "name": "Sakuracoin",
             "code": "SKR",
-            "address": "MWJdRQcDQZPNgfuPciBn5tY8BiB1c6R8Et"
+            "address": "MWJdRQcDQZPNgfuPciBn5tY8BiB1c6R8Et",
+            "enable": 0
         },
         {
             "name": "DIVERS",
@@ -126,7 +128,8 @@
         {
             "name": "Sha1coin",
             "code": "SHA",
-            "address": "Sd5obX8cP1UMhKRaAk66NoTUad8jzFuMHQ"
+            "address": "Sd5obX8cP1UMhKRaAk66NoTUad8jzFuMHQ",
+            "enable": 0
         },
         {
             "name": "DigiByte",
@@ -148,7 +151,8 @@
         {
             "name": "Paccoin",
             "code": "$PAC",
-            "address": "PRcMW78MNkzs7XXDJbyrgHBoVrRH1GDm3H"
+            "address": "PRcMW78MNkzs7XXDJbyrgHBoVrRH1GDm3H",
+            "enable": 0
         },
         {
             "name": "RingoCoin",
@@ -181,7 +185,7 @@
             "name": "SanDeGo",
             "code": "SDGo",
             "address": "SjKgWpBt1uLnWCbxYh5gR9Ve7FrupMWxm7",
-            "insight": "http://exp.sandego.net:3001/ext/getaddress/"
+            "insight": "http://sandego.net:3001/ext/getaddress/"
         },
         {
             "name": "VIPSTARCOIN",
@@ -196,7 +200,8 @@
         {
             "name": "KumaCoin",
             "code": "KUMA",
-            "address": "KNLSkyBEoHxJxEhigfD3NPJ1ZDwpPt3k7v"
+            "address": "KNLSkyBEoHxJxEhigfD3NPJ1ZDwpPt3k7v",
+            "insight": "https://kumabook.electrum-mona.org/api/v1/address/"
         },
         {
             "name": "nekonium",
@@ -227,7 +232,8 @@
         {
             "name": "kagonmacoin",
             "code": "JPKC",
-            "address": "KNjMQSMCxegAMvKz6jj5AgTB4QQr9o4KaQ"
+            "address": "KNjMQSMCxegAMvKz6jj5AgTB4QQr9o4KaQ",
+            "enable": 0
         },
         {
             "name": "Susucoin",
@@ -249,7 +255,7 @@
             "name": "Blur",
             "code": "BLUR",
             "address": "bL4Nvo6s5SeAHs8RphFBxGVeWhm6xCCTbYsnHJmEK9GwDhtL5PkhB16UxiT8Yfh5HDfC2WZskJek9RE1jDnJiaVQ2HkjZ49a7",
-            "enable":0
+            "enable": 0
         },
         {
             "name": "BellCoin",
