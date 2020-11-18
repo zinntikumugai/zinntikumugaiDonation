@@ -72,7 +72,8 @@
         {
             "name": "808",
             "code": "808",
-            "address": "8HAcqiWfQ1DzR21M17p4SVnieFZbtn3eBh"
+            "address": "8HAcqiWfQ1DzR21M17p4SVnieFZbtn3eBh",
+            "enable": 0
         },
         {
             "name": "Sprouts",
