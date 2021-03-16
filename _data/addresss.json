@@ -5,7 +5,7 @@
             "name": "Bitcoin",
             "code": "BTC",
             "address": "14aEPbnifyzFUereXtjcPmfHCm3axtV5AK",
-            "insight": "https://insight.bitpay.com/api/addr/"
+            "insight": "https://api.blockcypher.com/v1/btc/main/addrs/"
         },
         {
             "name": "BitZeny",
