@@ -62,7 +62,8 @@
             "name": "YAJUCOIN",
             "code": "YAJU",
             "address": "Yd6QzdykJgYM6h4tajwbvdL1KX889xF43G",
-            "insight": "http://yaju.insight.publicnodejp.cf/api/addr/"
+            "insight": "http://yaju.insight.publicnodejp.cf/api/addr/",
+            "enable": 0
         },
         {
             "name": "XP",
