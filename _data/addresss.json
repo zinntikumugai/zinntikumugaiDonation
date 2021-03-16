@@ -55,7 +55,8 @@
         {
             "name": "Ethereum",
             "code": "ETH",
-            "address": "0xeD8E591F606312575b9A5ceB8ed1A65502e984fE"
+            "address": "0xeD8E591F606312575b9A5ceB8ed1A65502e984fE",
+            "insight": "https://api.blockcypher.com/v1/eth/main/addrs/"
         },
         {
             "name": "YAJUCOIN",
