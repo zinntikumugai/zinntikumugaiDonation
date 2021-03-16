@@ -287,13 +287,15 @@
             "name": "BellCoin",
             "code": "BELL",
             "address": "bKYQs2fD6iVpfGGUUfTn4Vk8sNXr3hWRwu",
-            "insight": "https://explorer.bellcoin.web4u.jp/ext/getaddress/"
+            "insight": "https://explorer.bellcoin.web4u.jp/ext/getaddress/",
+            "enable": 0
         },
         {
             "name": "Bellcoin(Bech32)",
             "code": "BELL",
             "address": "bm1q3yum028cdl42ecqc46umeqz68zcrq23xv5ewjs",
-            "insight": "https://explorer.bellcoin.web4u.jp/ext/getaddress/"
+            "insight": "https://explorer.bellcoin.web4u.jp/ext/getaddress/",
+            "enable": 0
         },
         {
             "name": "eXPerience Chain",
