@@ -17,13 +17,13 @@
             "name": "BitZeny(Segwit)",
             "code": "ZNY",
             "address": "3AUiMgQndCuDXnbZfKJYDDh6zjJ6zUMJKZ",
-            "insight": "https://zny.blockbook.ovh/api/v1/address/"
+            "insight": "https://zenyinsight.tomotomo9696.xyz/api/addr/"
         },
         {
             "name": "BitZeny(bech32)",
             "code": "ZNY",
             "address": "bz1qnd540e60f2hpz9wvyjx6lj879eww55w5ge6633",
-            "insight": "https://zny.blockbook.ovh/api/v1/address/"
+            "insight": "https://zenyinsight.tomotomo9696.xyz/api/addr/"
         },
         {
             "name": "MonaCoin",
@@ -261,13 +261,13 @@
             "name": "BellCoin",
             "code": "BELL",
             "address": "bKYQs2fD6iVpfGGUUfTn4Vk8sNXr3hWRwu",
-            "insight": "https://bell.blockbook.ovh/api/v1/address/"
+            "insight": "https://explorer.bellcoin.web4u.jp/ext/getaddress/"
         },
         {
             "name": "Bellcoin(Bech32)",
             "code": "BELL",
             "address": "bm1q3yum028cdl42ecqc46umeqz68zcrq23xv5ewjs",
-            "insight": "https://bell.blockbook.ovh/api/v1/address/"
+            "insight": "https://explorer.bellcoin.web4u.jp/ext/getaddress/"
         },
         {
             "name": "eXPerience Chain",
