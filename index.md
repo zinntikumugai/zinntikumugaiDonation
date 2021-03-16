@@ -3,6 +3,8 @@
 何でもしませんけど寄付はほしいﾃﾞｽ  
 以下のアドレスでどうぞどうぞ
 
+現在表示されていないアドレスに送信されても受け取りできない可能性があります。
+
 ~~[Sensuでやるならこちら](https://shinoharata.github.io/TipSensuWithTwitter/?name=uesitananame55)~~
 
 ## Mainnet
