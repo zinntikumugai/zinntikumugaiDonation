@@ -245,7 +245,8 @@
         {
             "name": "zChash",
             "code": "ZEC",
-            "address": "t1eQ1QpAtTeZk2wSFqPLgDhLsvU6FJkj386"
+            "address": "t1eQ1QpAtTeZk2wSFqPLgDhLsvU6FJkj386",
+            "insight": "https://api.zcha.in/v2/mainnet/accounts/"
         },
         {
             "name": "zChash(private)",
