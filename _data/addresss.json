@@ -11,19 +11,22 @@
             "name": "BitZeny",
             "code": "ZNY",
             "address": "ZsJfwQg6YdmtptRbXftBccKTAW7TTk7rjG",
-            "insight": "https://zenyinsight.tomotomo9696.xyz/api/addr/"
+            "insight": "https://zenyinsight.tomotomo9696.xyz/api/addr/",
+            "enable": 0
         },
         {
             "name": "BitZeny(Segwit)",
             "code": "ZNY",
             "address": "3AUiMgQndCuDXnbZfKJYDDh6zjJ6zUMJKZ",
-            "insight": "https://zenyinsight.tomotomo9696.xyz/api/addr/"
+            "insight": "https://zenyinsight.tomotomo9696.xyz/api/addr/",
+            "enable": 0
         },
         {
             "name": "BitZeny(bech32)",
             "code": "ZNY",
             "address": "bz1qnd540e60f2hpz9wvyjx6lj879eww55w5ge6633",
-            "insight": "https://zenyinsight.tomotomo9696.xyz/api/addr/"
+            "insight": "https://zenyinsight.tomotomo9696.xyz/api/addr/",
+            "enable": 0
         },
         {
             "name": "MonaCoin",
@@ -40,7 +43,8 @@
         {
             "name": "Wavese",
             "code": "WAVES",
-            "address": "3PJaA35fSH73m34yhV9sXEN2WpzD6QPe8mj"
+            "address": "3PJaA35fSH73m34yhV9sXEN2WpzD6QPe8mj",
+            "enable": 0
         },
         {
             "name": "LiteCoin",
@@ -62,12 +66,14 @@
         {
             "name": "XP",
             "code": "XP",
-            "address": "XGZjewkqwmCiUeojiZb1McVtHRaFT69rB9"
+            "address": "XGZjewkqwmCiUeojiZb1McVtHRaFT69rB9",
+            "enable": 0
         },
         {
             "name": "Yenten",
             "code": "YTN",
-            "address": "YXc7pd1kjhRsrQTWWTTGZXFA5RiXAUh9jc"
+            "address": "YXc7pd1kjhRsrQTWWTTGZXFA5RiXAUh9jc",
+            "enable": 0
         },
         {
             "name": "808",
@@ -78,25 +84,29 @@
         {
             "name": "Sprouts",
             "code": "SPRTS",
-            "address": "Sf8h5QHwfa2YoXkLKLPB3hn3ZqhmZsiD6c"
+            "address": "Sf8h5QHwfa2YoXkLKLPB3hn3ZqhmZsiD6c",
+            "enable": 0
         },
         {
             "name": "Condensation",
             "code": "RAIN",
             "address": "RJDMxubFnabTUoVhKKceTpmfAwvnrbwJaU",
-            "insight": "http://explorer.condensate.io/ext/getaddress/"
+            "insight": "http://explorer.condensate.io/ext/getaddress/",
+            "enable": 0
         },
         {
             "name": "Condensation(P2SH)",
             "code": "RAIN",
             "address": "MGqL7pcNgmxhJU6q58HTca3nsuMMhrr6Zo",
-            "insight": "http://explorer.condensate.io/ext/getaddress/"
+            "insight": "http://explorer.condensate.io/ext/getaddress/",
+            "enable": 0
         },
         {
             "name": "NEETCOIN",
             "code": "NEET",
             "address": "NVtTF5fXkFhaKHBJS6zY8N8Y9ufSJJ9JSQ",
-            "insight": "https://insight.neetcoin.jp/api/addr/"
+            "insight": "https://insight.neetcoin.jp/api/addr/",
+            "enable": 0
         },
         {
             "name": "Grim",
@@ -113,17 +123,20 @@
         {
             "name": "DIVERS",
             "code": "DVRS",
-            "address": "FcdGGPLEQ1gV351dHN8EvtsKvZyM3SUEWt"
+            "address": "FcdGGPLEQ1gV351dHN8EvtsKvZyM3SUEWt",
+            "enable": 0
         },
         {
             "name": "DIVERS(P2SH)",
             "code": "DVRS",
-            "address": "bLBpWhwMBrPR7JqsUvSrh3CsmHbZstBpkg"
+            "address": "bLBpWhwMBrPR7JqsUvSrh3CsmHbZstBpkg",
+            "enable": 0
         },
         {
             "name": "StrongHands",
             "code": "SHND",
-            "address": "SX57U9MQzrPQTyL7xKHj18dYyH5cwS4Ucg"
+            "address": "SX57U9MQzrPQTyL7xKHj18dYyH5cwS4Ucg",
+            "enable": 0
         },
         {
             "name": "Sha1coin",
@@ -134,7 +147,8 @@
         {
             "name": "DigiByte",
             "code": "DGB",
-            "address": "DSyKXuRvRRgSznQz9uRduq1vJQg1FHTWPX"
+            "address": "DSyKXuRvRRgSznQz9uRduq1vJQg1FHTWPX",
+            "enable": 0
         },
         {
             "name": "Fujicoin",
@@ -158,17 +172,20 @@
             "name": "RingoCoin",
             "code": "RIN",
             "address": "RQcEsQuscLY6vaxPbS6JV8MXYo5BpVi7iw",
-            "insight": "http://ringo.l2loop.org//ext/getaddress/"
+            "insight": "http://ringo.l2loop.org//ext/getaddress/",
+            "enable": 0
         },
         {
             "name": "DSTRA",
             "code": "DST",
-            "address": "F8wpXkqhg4T4tCq8dRG6kDccQyc866vhjL"
+            "address": "F8wpXkqhg4T4tCq8dRG6kDccQyc866vhjL",
+            "enable": 0
         },
         {
             "name": "DSTRA(P2SH)",
             "code": "DST",
-            "address": "fHE1cGizGtFdxDCL6bFDqjwpBF4inhQxWb"
+            "address": "fHE1cGizGtFdxDCL6bFDqjwpBF4inhQxWb",
+            "enable": 0
         },
         {
             "name": "WOMENCOIN",
@@ -179,7 +196,8 @@
         {
             "name": "Curium",
             "code": "CRU",
-            "address": "RPiGRyB2AEDuG3h7GNq69Gk7WyPJ5Yi7v5"
+            "address": "RPiGRyB2AEDuG3h7GNq69Gk7WyPJ5Yi7v5",
+            "enable": 0
         },
         {
             "name": "SanDeGo",
@@ -190,18 +208,21 @@
         {
             "name": "VIPSTARCOIN",
             "code": "VIPS",
-            "address": "VS6JxDC3Zejiu6P8PgN6g6CjpAAt38SGj2"
+            "address": "VS6JxDC3Zejiu6P8PgN6g6CjpAAt38SGj2",
+            "enable": 0
         },
         {
             "name": "VIPSTARCOIN(Segwit)",
             "code": "VIPS",
-            "address": "MVTeGBZyjBEjLS6Qg2AJZqqmc7GTJRwhpi"
+            "address": "MVTeGBZyjBEjLS6Qg2AJZqqmc7GTJRwhpi",
+            "enable": 0
         },
         {
             "name": "KumaCoin",
             "code": "KUMA",
             "address": "KNLSkyBEoHxJxEhigfD3NPJ1ZDwpPt3k7v",
-            "insight": "https://kumabook.electrum-mona.org/api/v1/address/"
+            "insight": "https://kumabook.electrum-mona.org/api/v1/address/",
+            "enable": 0
         },
         {
             "name": "nekonium",
@@ -244,12 +265,14 @@
         {
             "name": "Mangacoin",
             "code": "MANGA",
-            "address": "mQTYHzuHsjnhqfn5FGPgbir41mf3uwXFNB"
+            "address": "mQTYHzuHsjnhqfn5FGPgbir41mf3uwXFNB",
+            "enable": 0
         },
         {
             "name": "PosCoin",
             "code": "POS",
-            "address": "PF7SGtxV3ApwaQHyR8c5B2jE9jivq3ZRRn"
+            "address": "PF7SGtxV3ApwaQHyR8c5B2jE9jivq3ZRRn",
+            "enable": 0
         },
         {
             "name": "Blur",
@@ -273,13 +296,15 @@
             "name": "eXPerience Chain",
             "code": "XPC",
             "address": "CSMYT5XEgQ9SgHoQr95kCFEcpbdyB7qC3Q",
-            "insight": "https://insight.xpchain.io/api/addr/"
+            "insight": "https://insight.xpchain.io/api/addr/",
+            "enable": 0
         },
         {
             "name": "eXPerience Chain(Segwit/Bech32)",
             "code": "XPC",
             "address": "xpc1q3zj5qxnxemmaddvvltkjg4pul2u248yv3rfxlc",
-            "insight": "https://insight.xpchain.io/api/addr/"
+            "insight": "https://insight.xpchain.io/api/addr/",
+            "enable": 0
         }
     ],
     "Testnet": [
